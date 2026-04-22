@@ -1,1 +1,23 @@
+# Images and Test Frames
+*.jpg
+*.jpeg
+*.png
+*.raw
 
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Logs 
+*.log
+logs/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# GStreamer Temp Files
+tests/frame_tmp.jpg
+tests/latest.jpg
