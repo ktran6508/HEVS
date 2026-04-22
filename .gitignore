@@ -3,6 +3,7 @@
 *.jpeg
 *.png
 *.raw
+*.read
 
 # Python
 __pycache__/
